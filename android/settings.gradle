@@ -1,1 +1,9 @@
 rootProject.name = 'unique_device_identifier'
+
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
