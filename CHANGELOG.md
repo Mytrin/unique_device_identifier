@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## 2.x.x
+## 2.1.0
 - Updates minimum supported SDK version to Flutter 3.44/Dart 3.12.
 - Migrates to built-in Kotlin
 
